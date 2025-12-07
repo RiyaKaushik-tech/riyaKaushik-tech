@@ -1,9 +1,9 @@
 # 🚀 Hi, I'm Riya Kaushik — Frontend Developer | DSA & Web Development Enthusiast
 
 📍 Karnal, Haryana  
-📧 [riyakaushik6410@gmail.com](mailto:riyakaushik6410@gmail.com)  
+📧 [RiyaKaushik.tech@outlook.com](mailto:riyakaushik.tech@outlook.com)  
 📱 +91 89309 42202  
-🌐 [GitHub](https://github.com/riya1807pro) • [LinkedIn](https://www.linkedin.com/in/riyakaushik-webdev) • [Portfolio](https://riya-kaushik-portfolio.vercel.app) • [LeetCode](https://leetcode.com/u/Riya_Kaushik_1807)
+🌐 [LinkedIn](https://www.linkedin.com/in/riyakaushik-webdev) • [Portfolio](https://riya-kaushik-portfolio.vercel.app) • [LeetCode](https://leetcode.com/u/Riya_Kaushik_1807)
 
 ---
 
@@ -66,7 +66,7 @@ Sep 2023 – June 2025
 
 ## 📫 Let's Connect
 
-✉️ [Email](mailto:riyakaushik6410@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/riyakaushik-webdev) • 🐙 [Portfolio](https://riya-kaushik-portfolio.vercel.app) • 🖥️ [GitHub](https://github.com/riya1807pro) • [LeetCode](https://leetcode.com/u/Riya_Kaushik_1807)
+✉️ [Email](mailto:riyakaushik.tech@outlook.com) • 💼 [LinkedIn](https://www.linkedin.com/in/riyakaushik-webdev) • 🐙 [Portfolio](https://riya-kaushik-portfolio.vercel.app) • 🖥️ [GitHub](https://github.com/riyaKaushik-tech) • [LeetCode](https://leetcode.com/u/Riya_Kaushik_1807)
 
 ⭐ Thanks for visiting my GitHub!  
 🤝 Always open to collaborations, learning, and growing together 🚀
