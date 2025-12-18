@@ -25,18 +25,35 @@ Aspiring **Frontend Developer** and final-year Computer Science Diploma student 
 
 ## 🚀 Featured Projects
 
-### 🔹 Data Sync Dashboard
-- **Tech:** React, Next.js, TypeScript, Tailwind CSS  
-- Developed a personalized content dashboard to track and interact with data dynamically.  
-- Integrated **News API** and **TMDB API** for news and movies.  
-- Implemented personalized theme and **RTK for state management**.  
-- **Live:** [Live Link](https://datasync-dashboard.vercel.app/) • **Code:** [GitHub Repo](https://github.com/riya1807pro/datasync-dashboard)
+### TaskPulse – Project Management Tool
+TaskPulse is a full-stack project management tool built to handle real-world team workflows.
 
-### 🔹 Personal Portfolio
-- **Tech:** Next.js, Tailwind CSS, Framer Motion  
-- Built a full-stack responsive portfolio website to showcase projects and skills.  
-- Integrated backend for contact form functionality.  
-- **Live:** [Live Link](https://riya-kaushik-portfolio.vercel.app) • **Code:** [GitHub Repo](https://github.com/riya1807pro/riya-kaushik-portfolio)
+It supports role-based authentication, task creation and assignment, and real-time updates using Socket.io.  
+The backend is designed with a scalable REST architecture, including validation, file handling, and secure APIs.  
+Performance is optimized through caching and pagination to reduce API latency and enhance the user experience.
+
+Tech Stack: React, Vite, Redux, Node.js, Express, MongoDB, Socket.io
+**Code:** [GitHub Repo](https://github.com/RiyaKaushik-tech/TaskPulse)
+
+### Data Sync Dashboard
+-A responsive dashboard built to track and visualize real-time data using external APIs.
+
+The application fetches and displays live news and movie data using APIs like NewsAPI and TMDB.  
+State management is handled using Redux Toolkit to ensure predictable data flow.  
+The UI is fully responsive and styled with Tailwind CSS, focusing on usability and clean design.
+
+Tech Stack: Next.js, React, Redux Toolkit, Tailwind CSS
+**Live:** [Live Link](https://datasync-dashboard.vercel.app/) • **Code:** [GitHub Repo](https://github.com/riya1807pro/datasync-dashboard)
+
+### Personal Portfolio
+A personal portfolio website to showcase projects, skills, and contact information.
+
+Built with Next.js and Tailwind CSS, the site is fully responsive and optimized for all devices.  
+Smooth UI animations are implemented using Framer Motion to enhance user experience.  
+Includes a backend-powered contact form for direct communication.
+
+Tech Stack: Next.js, Tailwind CSS, Framer Motion
+**Live:** [Live Link](https://riya-kaushik-portfolio.vercel.app) • **Code:** [GitHub Repo](https://github.com/riya1807pro/riya-kaushik-portfolio)
 
 ---
 
