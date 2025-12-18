@@ -26,33 +26,37 @@ Aspiring **Frontend Developer** and final-year Computer Science Diploma student 
 ## 🚀 Featured Projects
 
 ### TaskPulse – Project Management Tool
-TaskPulse is a full-stack project management tool built to handle real-world team workflows.
+TaskPulse is a full-stack project management application focused on building reliable and scalable team workflows.
+Key Features:
+- The system implements role-based access control, task lifecycle management, and real-time updates using Socket.io.  
+- The backend follows a structured REST architecture with proper validation, secure API design, and file handling.
+- Performance considerations such as caching and pagination are applied to improve responsiveness and API efficiency.
 
-It supports role-based authentication, task creation and assignment, and real-time updates using Socket.io.  
-The backend is designed with a scalable REST architecture, including validation, file handling, and secure APIs.  
-Performance is optimized through caching and pagination to reduce API latency and enhance the user experience.
+**Tech** Stack: React, Vite, Redux, Node.js, Express, MongoDB, Socket.io 
 
-Tech Stack: React, Vite, Redux, Node.js, Express, MongoDB, Socket.io
 **Code:** [GitHub Repo](https://github.com/RiyaKaushik-tech/TaskPulse)
 
 ### Data Sync Dashboard
--A responsive dashboard built to track and visualize real-time data using external APIs.
+Data Sync Dashboard is a data-driven web application designed to aggregate and visualize real-time information from external sources.
 
-The application fetches and displays live news and movie data using APIs like NewsAPI and TMDB.  
-State management is handled using Redux Toolkit to ensure predictable data flow.  
-The UI is fully responsive and styled with Tailwind CSS, focusing on usability and clean design.
-
+Key Features:
+- It integrates third-party APIs such as NewsAPI and TMDB to fetch and present dynamic content.
+- Application state is managed using Redux Toolkit to maintain predictable and maintainable data flow.  
+- The interface is built with Tailwind CSS, emphasizing responsiveness, clarity, and usability.
+  
 Tech Stack: Next.js, React, Redux Toolkit, Tailwind CSS
+
 **Live:** [Live Link](https://datasync-dashboard.vercel.app/) • **Code:** [GitHub Repo](https://github.com/riya1807pro/datasync-dashboard)
 
 ### Personal Portfolio
-A personal portfolio website to showcase projects, skills, and contact information.
+A personal portfolio website developed to present projects, technical skills, and professional information.
 
-Built with Next.js and Tailwind CSS, the site is fully responsive and optimized for all devices.  
-Smooth UI animations are implemented using Framer Motion to enhance user experience.  
-Includes a backend-powered contact form for direct communication.
+Key Features:
+- Built using Next.js and Tailwind CSS, the site is fully responsive and optimized for modern devices.  
+-Subtle UI animations are implemented with Framer Motion to enhance interaction without compromising performance.  
+- Includes a backend-powered contact form to support direct communication.
 
-Tech Stack: Next.js, Tailwind CSS, Framer Motion
+Tech Stack: Next.js, Tailwind CSS, Framer Motion  
 **Live:** [Live Link](https://riya-kaushik-portfolio.vercel.app) • **Code:** [GitHub Repo](https://github.com/riya1807pro/riya-kaushik-portfolio)
 
 ---
