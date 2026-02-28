@@ -18,7 +18,7 @@ Full Stack MERN Developer with strong specialization in frontend engineering and
 
 - Improved authentication workflows and resolved real-world production issues  
 - Enhanced UI responsiveness across multiple device sizes  
-- Diagnosed system reliability problems including token expiration handling  
+- Diagnosed system reliability problems, including token expiration handling  
 - Strengthened overall application performance and user flow stability  
 
 ---
@@ -26,7 +26,7 @@ Full Stack MERN Developer with strong specialization in frontend engineering and
 ## 🛠 Technical Stack
 
 **Languages**  
-JavaScript • TypeScript • C  
+JavaScript • TypeScript
 
 **Frontend Development**  
 React.js • Next.js • Redux Toolkit • Tailwind CSS • Responsive UI Design  
@@ -52,17 +52,17 @@ Production-style application designed for structured team workflows and scalable
 
 **Key Contributions**
 - Implemented role-based access architecture  
-- Built real-time update system using WebSockets  
+- Built a real-time update system using WebSockets  
 - Designed optimized REST APIs with validation + pagination  
 
 **Tech:** MERN Stack + Socket.io  
-🔗 Repository:  
-https://github.com/RiyaKaushik-tech/TaskPulse
+🔗 Visit the site:  
+https://task-pulse-jo23.onrender.com/
 
 ---
 
 ### Data Sync Dashboard — Real-Time Data Platform
-Dynamic dashboard that aggregates and visualizes external API data.
+A dynamic dashboard that aggregates and visualizes external API data.
 
 **Highlights**
 - Integrated multiple third-party APIs  
@@ -70,7 +70,7 @@ Dynamic dashboard that aggregates and visualizes external API data.
 - Responsive UI optimized for performance  
 
 **Tech:** Next.js • React • Redux • Tailwind  
-🔗 Live: https://datasync-dashboard.vercel.app/
+🔗 Visit the Site: https://datasync-dashboard.vercel.app/
 
 ---
 
@@ -83,7 +83,7 @@ Modern portfolio platform designed for performance, responsiveness, and professi
 - Functional contact system  
 
 **Tech:** Next.js • Tailwind • Framer Motion  
-🔗 Live: https://riya-kaushik-portfolio.vercel.app
+🔗 Live profile: https://riya-kaushik-portfolio.vercel.app
 
 ---
 
